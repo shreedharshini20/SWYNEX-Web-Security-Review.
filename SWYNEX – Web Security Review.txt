@@ -1,0 +1,43 @@
+SWYNEX – Web Security Review
+
+Task: 3
+Topic: Web Security Review
+Environment: Authorized training application
+
+1. Objective
+
+To review common web application security risks and understand their impact and mitigation.
+
+2. Methodology
+
+1. Open an authorized web security training application.
+2. Review its security controls and behavior.
+3. Record relevant evidence for each verified finding.
+4. Recommend suitable remediation measures.
+
+3. Security Review Areas
+
+- Authentication and password protection
+- Input validation
+- Access control
+- Security headers
+- Error handling
+
+4. Findings
+
+For each verified finding, document:
+
+- Finding title
+- Affected component
+- Evidence or screenshot
+- Severity: Low, Medium, High, or Critical, with justification
+- Potential impact
+- Recommended remediation
+
+Do not assign severity without considering the evidence and context.
+
+5. Conclusion
+
+This review supports learning about web application security, identifying potential weaknesses in an authorized training environment, and recommending appropriate defensive measures.
+
+Note: Complete this report with actual lab observations before submitting. The listed review areas are not confirmed vulnerabilities.
